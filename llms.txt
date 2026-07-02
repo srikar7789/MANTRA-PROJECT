@@ -1,0 +1,19 @@
+# Skyline Suites
+
+> Skyline Suites is a luxury hotel offering premium rooms and suites, a rooftop pool, fine dining, and full-service amenities, with online booking available.
+
+Skyline Suites is an independently run hotel established in 2014, offering Classic Rooms, Deluxe Rooms, Skyline Suites, and Penthouse Suites, along with a rooftop pool and on-site restaurant.
+
+## Pages
+
+- [Home](https://yourdomain.com/index.html): Overview of the hotel, amenities, and booking call-to-action.
+- [About](https://yourdomain.com/about.html): Hotel history, stats, and staff information.
+- [Rooms](https://yourdomain.com/rooms.html): Room types, sizes, and nightly rates.
+- [Gallery](https://yourdomain.com/gallery.html): Photos of rooms, pool, restaurant, and architecture.
+- [Booking](https://yourdomain.com/booking.html): Online reservation form with room selection.
+- [Contact](https://yourdomain.com/contact.html): Address, phone, email, and contact form.
+
+## Contact
+
+- Phone: +91 1234567890
+- Email: stay@skylinesuites.example
