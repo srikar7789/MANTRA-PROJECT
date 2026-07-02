@@ -111,7 +111,7 @@
   .sk-chat-btn {
     position: fixed; bottom: 22px; right: 22px; z-index: 9999;
     width: 58px; height: 58px; border-radius: 50%;
-    background: #111111; color: #fff; border: none;
+    background: #111111; color: #ffffff; border: none;
     display: flex; align-items: center; justify-content: center;
     cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,0.25);
     font-size: 26px; transition: transform 0.2s ease;
